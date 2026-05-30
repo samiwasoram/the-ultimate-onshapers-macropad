@@ -22,8 +22,15 @@ Row 3: Construction (q), Mirror (m), Dimension (d)
 | Seeed XIAO RP2040 | Microcontroller, for firmware | $10.99 | Amazon | https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M?th=1 |
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 |
 
+# schematics
+<img width="1241" height="780" alt="image" src="https://github.com/user-attachments/assets/346193a6-12e4-4207-9e7e-f506e13f273f" />
+<img width="1211" height="855" alt="image" src="https://github.com/user-attachments/assets/d12645e7-3863-4cfe-9704-14b7ce2159bd" />
+
 # kool images
 <img width="1236" height="924" alt="image" src="https://github.com/user-attachments/assets/e0c5c33c-fd2d-4722-a752-f14a647bb34f" />
 <img width="1126" height="883" alt="image" src="https://github.com/user-attachments/assets/3e4c30a1-ca5d-40be-b176-8c90454ab036" />
 <img width="842" height="960" alt="image" src="https://github.com/user-attachments/assets/4a03711c-7982-42cc-b36e-c0646e25ac46" />
+<img width="1096" height="799" alt="image" src="https://github.com/user-attachments/assets/3c9d868b-f775-4573-a820-e972e60ff6f9" />
+<img width="1208" height="895" alt="image" src="https://github.com/user-attachments/assets/42ef3fd9-0592-42fa-ab7d-f51deab3ec59" />
+
 
