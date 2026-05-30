@@ -10,7 +10,7 @@ Row 2: Center point circle (c), Center point rectangle (r), Corner rectangle (g)
 
 Row 3: Construction (q), Mirror (m), Dimension (d)
 
-Had a lot of fun designing the PCB and base for it!
+#womeninstem
 
 # Bill of Materials    
 
