@@ -1,6 +1,6 @@
 # THE ULTIMATE ONSHAPER'S MACROPAD
 
-My hackpad-inspired macropad for the Hack Club Macondo event! It's designed for ultimate CAD lock in sessions during robotics build season. It has 9 Cherry MX switches, 9 blank keycaps, and a Seeed XIAO RP2040. The PCB was created in KICAD and the case was designed on Onshape. 
+My hackpad-inspired macropad for the Hack Club Macondo event! It's designed for ultimate CAD lock in sessions during robotics build season. It has 9 Cherry MX switches, 9 blank keycaps, and a Seeed XIAO RP2040. The PCB was created in KICAD and the case was designed in Onshape. 
 
 The controls will be:
 
@@ -21,5 +21,4 @@ Row 3: Construction (q), Mirror (m), Dimension (d)
 | White DSA Keycaps for MX Compatible Switches (10) | To type on | 5.95 (shipping + tax from Signal Diode) | adafruit.com | https://www.adafruit.com/product/4998?srsltid=AfmBOopmGq-VPcYnE1i7aQguwAhbul6IQhGv5Daf9sSj4xGf93vBrATtFjU |
 | Seeed XIAO RP2040 | Microcontroller, for firmware | $10.99 | Amazon | https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M?th=1 |
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 |
+
