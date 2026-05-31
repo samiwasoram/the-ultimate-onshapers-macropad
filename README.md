@@ -20,7 +20,7 @@ Row 3: Construction (q), Mirror (m), Dimension (d)
 | 1N4148 Signal Diode - 10 pack | For keyboard matrix wiring | $12.28 (including shipping + tax for keycaps) | adafruit.com | (https://www.adafruit.com/product/1641?srsltid=AfmBOooHWAb6G50qkBp9dXtdPrK7C0nuo8gwnL6dp97hsUnvhFvnqvkOfvE) |
 | White DSA Keycaps for MX Compatible Switches (10) | To type on | 5.95 (shipping + tax from Signal Diode) | adafruit.com | https://www.adafruit.com/product/4998?srsltid=AfmBOopmGq-VPcYnE1i7aQguwAhbul6IQhGv5Daf9sSj4xGf93vBrATtFjU |
 | Seeed XIAO RP2040 | Microcontroller, for firmware | $10.99 | Amazon | https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M?th=1 |
-| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 |
+| PCB | To be the macropad... | $36.18 | JLCPCB | (https://jlcpcb.com/) |
 
 # JLCPCB cart
 <img width="386" height="412" alt="image" src="https://github.com/user-attachments/assets/0525b03b-1ea3-4b07-855c-552077e41287" />
