@@ -22,6 +22,10 @@ Row 3: Construction (q), Mirror (m), Dimension (d)
 | Seeed XIAO RP2040 | Microcontroller, for firmware | $10.99 | Amazon | https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M?th=1 |
 | Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 | Row 3, Col 5 |
 
+# JLCPCB cart
+<img width="386" height="412" alt="image" src="https://github.com/user-attachments/assets/0525b03b-1ea3-4b07-855c-552077e41287" />
+oh my god this hurts me
+
 # schematics
 <img width="1241" height="780" alt="image" src="https://github.com/user-attachments/assets/346193a6-12e4-4207-9e7e-f506e13f273f" />
 <img width="1211" height="855" alt="image" src="https://github.com/user-attachments/assets/d12645e7-3863-4cfe-9704-14b7ce2159bd" />
