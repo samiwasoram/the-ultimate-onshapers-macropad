@@ -27,6 +27,9 @@ Row 3: Construction (q), Mirror (m), Dimension (d)
 <img width="386" height="412" alt="image" src="https://github.com/user-attachments/assets/0525b03b-1ea3-4b07-855c-552077e41287" />
 oh my god this hurts me
 
+# onshape link
+https://cad.onshape.com/documents/d1f1103988d98335aa19ccdd/w/8bd042f83310a34c120b1a0e/e/0e2c7061372b8c3f71e3cb36 
+
 # schematics
 <img width="1241" height="780" alt="image" src="https://github.com/user-attachments/assets/346193a6-12e4-4207-9e7e-f506e13f273f" />
 <img width="1211" height="855" alt="image" src="https://github.com/user-attachments/assets/d12645e7-3863-4cfe-9704-14b7ce2159bd" />
