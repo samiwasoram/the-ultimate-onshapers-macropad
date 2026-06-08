@@ -21,7 +21,7 @@ Row 3: Construction (q), Mirror (m), Dimension (d)
 | White DSA Keycaps for MX Compatible Switches (10) | To type on | $5.95 (shipping + tax from Signal Diode) | adafruit.com | https://www.adafruit.com/product/4998?srsltid=AfmBOopmGq-VPcYnE1i7aQguwAhbul6IQhGv5Daf9sSj4xGf93vBrATtFjU |
 | Seeed XIAO RP2040 | Microcontroller, for firmware | $10.99 | Amazon | https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M?th=1 |
 | PCB | To be the macropad... | $6.06 | JLCPCB | https://jlcpcb.com/ |
-| Total | $74.27 |  |  |  |
+| Total | $41.32 |  |  |  |
 
 # JLCPCB cart
 <img width="434" height="420" alt="2026_06_08_0jr_Kleki" src="https://github.com/user-attachments/assets/9e96d763-a805-4a52-a775-802ca628c9aa" />
