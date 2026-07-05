@@ -10,6 +10,8 @@ Row 2: Center point circle (c), Center point rectangle (r), Corner rectangle (g)
 
 Row 3: Construction (q), Mirror (m), Dimension (d)
 
+I USED KICAD NOT EASYEDA
+
 #womeninstem
 
 # Bill of Materials    
